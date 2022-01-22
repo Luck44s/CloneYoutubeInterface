@@ -1,0 +1,2 @@
+# Clone da Interface youtube
+>Esse projeto tem como objetivo explorar o uso das linguagens de marcação HTML5 e CSS3, bem como algumas funcionalidades do javascript. Através da Maratona realizada pela Kenzie Academy esse projeto foi desenvolvido de forma guiada. 
